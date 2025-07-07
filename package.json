@@ -7,8 +7,12 @@
     "start": "node app.js",
     "dev": "nodemon app.js"
   },
+  
   "keywords": [],
   "author": "",
+  "engines": {
+    "node": "^22.13.0" 
+  },
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
